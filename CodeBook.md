@@ -1,6 +1,6 @@
 Data stored in **tidyData.txt** represents part of the Human Activity
 Recognition Using Smartphones Dataset by Jorge L. Reyes-Ortiz, Davide
-Anguita, Alessandro Ghio, Luca Oneto <activityrecognition@smartlab.ws>
+Anguita, Alessandro Ghio, Luca Oneto <activityrecognition@smartlab.ws>,
 <http://www.smartlab.ws>
 
 #### Project design

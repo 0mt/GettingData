@@ -1,7 +1,7 @@
 #### How to read the dataset
 
 To read a tidy data set stored in **tidyData.txt** into R use
-**read.table(path\_to\_file, header = TRUE)**.
+**read.table(path\_to\_file, header = TRUE)**
 
 #### Why is it tidy?
 

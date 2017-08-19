@@ -1,3 +1,6 @@
+### Generates a tidy data set for the final project of Getting and Cleaning Data 
+### course
+
 ## Load dplyr package
 library(dplyr)
 
