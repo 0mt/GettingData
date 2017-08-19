@@ -103,8 +103,6 @@ subject-activity pair form a row.
     ##  $ V67: Factor w/ 181 levels "-0.0229045295641026",..: 181 90 155 175 12 9 60 159 156 124 ...
     ##  $ V68: Factor w/ 181 levels "-0.0398573780185185",..: 181 91 151 176 14 15 63 157 160 128 ...
 
-The values are normalized and bounded within \[-1, 1\].  
-
 #### Explanation of variables
 
 All variable names, except for subject and activity, are constructed
@@ -169,5 +167,6 @@ from special descriptors with specific meaning
 </tbody>
 </table>
 
+The values are normalized and bounded within \[-1, 1\].  
 Finally, the subject column contains IDs of the volunteers, and the
 activity column lists names of the performed activities.
